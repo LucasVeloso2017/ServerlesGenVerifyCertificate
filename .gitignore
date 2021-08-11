@@ -1,0 +1,7 @@
+node_modules
+.dynamodb
+.serverless
+.webpack
+.env
+.nvmrc
+.npmignore
