@@ -24,16 +24,20 @@ Exemplo de Serverless functions para criação de certificado e verificação do
 Para iniciar esse projeto primeiro precisamos ir ate a raiz do projeto e executar:
 
 Yarn ` yarn `
+<br/>
 Npm ` npm install `
 
 É necessario que você tenha a CLI do Serverless configurada em sua maquina:
-<a href="https://www.serverless.com/framework/docs/getting-started/">Clique aqui</a>
+<br/>
+<a href="https://www.serverless.com/framework/docs/getting-started/" target="_blank">Clique aqui</a>
 
 <br/>
 Bibliotecas instaladas, estamos prontos para colocar a aplicação para funcionar e para isso:
 
 Yarn ` yarn dev ` - developer mode
+<br/>
 Npm ` npm run dev ` - developer mode
 
 Yarn ` yarn db ` - memory DynamoDB
+<br/>
 Npm ` npm run db ` - memory DynamoDB
